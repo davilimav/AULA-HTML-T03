@@ -1,0 +1,35 @@
+h1 {
+    text-shadow: -5px 5px 5px rgb(245, 25, 79);
+}
+
+h2{
+    text-shadow: 7px 3px 5px blue;
+}
+
+p{
+    font font-family: arial, helvetica, sans-serif;
+    font-size: 13px;
+    text align:justfy;
+    color: blue;
+}
+
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(255, 0, 119);
+    text-align: center;
+}
+
+.texto2{
+    font-family:fantasy;
+    font-size: x-large;
+    color: blueviolet;
+    text-align: center;
+}
+
+.texto3{
+    font-family:'Times New Roman', Times, serif
+    font-size: medium;
+    color: red;
+    text-align: center;
+}

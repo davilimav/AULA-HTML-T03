@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tac+One&display=swap');
+
+body{
+    background-color: rgb(178, 164, 190);
+}
+
+h1, h2{
+    font-family: "Tac One", sans-serif;
+    font-size: 40px;
+    text-shadow: -5px 5px 5px rgb(233, 33, 40);
+    line-height: 2;
+}
+
+p{
+    color: blueviolet;
+}
+
+.class{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    text-align: justify;
+    font-style: oblique;
+    color: rgb(102, 89, 89);
+
+}
