@@ -1,13 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Yarndings+12&display=swap');
+
 h1{
     color: rgb(5, 5, 5);
 }
 
 body{
     background-color: #56FF4B;
+    font-family: "roboto slab";
 }
 
 p{
     color: blueviolet;
+    font-family:"Yarndings 12", system-ui;
+}
+span{
+    font-style: italic;
 }
 
 h2{

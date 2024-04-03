@@ -1,0 +1,11 @@
+span {
+    font-weight: 900;
+}
+
+h1{
+    text-shadow: 5px 5px 5px green;
+}
+
+p {
+    line-height: 200%;
+}
