@@ -1,0 +1,19 @@
+h1{
+    border-top: 10px dashed lawngreen ;
+    border-right: 15px dotted blue;
+    border-bottom: 20px solid red;
+    border-left: 20px double rebeccapurple;
+}
+
+h2{
+    border-top: 5px dashed lawngreen ;
+    border-right: 5px dashed lawngreen;
+    border-bottom: 5px dashed lawngreen;
+    border-left: 5px dashed lawngreen;
+}
+
+h3{
+    text-align: center;
+    border: 5px solid rebeccapurple;
+    border-radius: 50%;
+}

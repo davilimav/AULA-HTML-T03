@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+.nameclass2{
+    color: khaki;
+    background-color: blueviolet;
+}
+
+#nameclass{
+    color: yellow;
+    background-color: blue;
+}
+
+article p{
+    color: cadetblue;
+    background-color: aqua;
+}
